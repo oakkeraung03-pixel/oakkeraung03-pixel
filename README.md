@@ -42,7 +42,7 @@
 
 <img src="https://img.shields.io/badge/Japanese-JLPT_N4-2979FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/English-Professional-FF9100?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/English-Professional-Working-ProficiencyFF9100?style=for-the-badge"/>
 
 </div>
 
