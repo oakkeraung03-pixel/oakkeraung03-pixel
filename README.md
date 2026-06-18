@@ -11,7 +11,7 @@
     <p>
       An ambitious <b>IT Fresher</b> driven by a passion for full-stack development and enterprise solutions. 
       Certified by <b>KMD Computer</b> and qualified through <b>ITPEC (IP, FE)</b>. Currently pursuing my studies at the 
-      <b>University of Distance Education (Myanmar)</b>. I enjoy crafting efficient software, balancing backend 
+      <b>University of (YenanGyaung) Distance Education (Myanmar Major)</b>. I enjoy crafting efficient software, balancing backend 
       logic with clean user interfaces, and I am continuously expanding my skillset—currently focusing on 
       <b>Java Spring Frameworks</b>.
     </p>
